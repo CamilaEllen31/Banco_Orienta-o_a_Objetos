@@ -1,0 +1,48 @@
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\BankOO.exe
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\BankOO.deps.json
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\BankOO.runtimeconfig.json
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\BankOO.runtimeconfig.dev.json
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\BankOO.dll
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\ref\BankOO.dll
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\bin\Debug\net5.0\BankOO.pdb
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.csproj.AssemblyReference.cache
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.AssemblyInfoInputs.cache
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.AssemblyInfo.cs
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.csproj.CoreCompileInputs.cache
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.dll
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\ref\BankOO.dll
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.pdb
+E:\ETE 2021\Ling PRO\Bank_OO\bank__OO\BankOO\obj\Debug\net5.0\BankOO.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\BankOO.exe
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\BankOO.deps.json
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\BankOO.runtimeconfig.json
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\BankOO.runtimeconfig.dev.json
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\ref\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\bin\Debug\net5.0\BankOO.pdb
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.csprojAssemblyReference.cache
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\ref\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.pdb
+C:\Users\camil\OneDrive\Área de Trabalho\bank__OO-main\BankOO\obj\Debug\net5.0\BankOO.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\BankOO.exe
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\BankOO.deps.json
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\BankOO.runtimeconfig.json
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\BankOO.runtimeconfig.dev.json
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\ref\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\bin\Debug\net5.0\BankOO.pdb
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.csprojAssemblyReference.cache
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\ref\BankOO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.pdb
+C:\Users\camil\OneDrive\Área de Trabalho\Banco Camila\Banco\obj\Debug\net5.0\BankOO.genruntimeconfig.cache
